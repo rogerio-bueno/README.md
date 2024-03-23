@@ -2,12 +2,6 @@
   <img src="https://media.licdn.com/dms/image/D4D16AQH0XiASm92zsA/profile-displaybackgroundimage-shrink_350_1400/0/1707504596346?e=1712793600&v=beta&t=InSbs9npTPZHZUtV-6bvlUK9kh73PqeRQMQQrlyvoZY">
 </div>
 
-<br>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=3533cd&size=35&center=true&vCenter=true&width=1000&lines=Bem+vindo+ao+meu+perfil+no+GitHub!;Me+chamo+Rogério+Bueno;E+sou+Desenvolvedor+Front-End+Junior)](https://git.io/typing-svg)
-
-<br>
-
 ## Linguagem e ferramentas
 
 ### Stack

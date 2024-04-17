@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://media.licdn.com/dms/image/D4D16AQH0XiASm92zsA/profile-displaybackgroundimage-shrink_350_1400/0/1707504596346?e=1712793600&v=beta&t=InSbs9npTPZHZUtV-6bvlUK9kh73PqeRQMQQrlyvoZY">
-</div>
-
 ## Linguagem e ferramentas
 
 ### Stack
